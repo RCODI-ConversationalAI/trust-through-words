@@ -1,0 +1,425 @@
+group,sender,message,Warm,Tender,Sympathetic,Softhearted,Moved,Compassionate,Mean,STD
+A,Bot,"Based on what we know, it took your landlord more than 30 days since you moved out to send the estimate. You should have received an estimate on or about 2022-09-23
+
+Okay, let's continue",5.666666667,5.333333333,5,4.333333333,5.333333333,3.666666667,4.888888889,0.750308578
+A,Bot,"Based on your situation, we may be able to write a letter to your landlord demanding your security deposit back. Shall we do that?
+
+Yes, I would like to write a letter please.",4.666666667,5.333333333,5.333333333,4,5.333333333,5.333333333,5,0.557773351
+A,Bot,"Before Rentervention will help you write the letter. You will now take a second survey to evaluate your experiences using the online help. Please click on the Continue button below to access it.
+
+Thanks!",4,5,3.666666667,4,2.666666667,3.333333333,3.777777778,0.779363463
+A,Bot,"Before we continue with our discussion, we wanted to check in. We know working on legal issues can be stressful. Are you doing ok?
+
+Yes
+No",4.666666667,5,4.666666667,5.666666667,6.333333333,6.333333333,5.444444444,0.779363463
+A,Bot,Could you please tell me how much your deposit is?,4,3,5.333333333,3.333333333,4.333333333,4,4,0.816496581
+A,Bot,"Could you share if your landlord told you in writing that they would deduct anything from your security deposit (repairs, replacements, etc)?
+
+Yes, my landlord told me in writing of the deductions.
+No, my landlord did not tell me of the deductions.",4,6,4.666666667,4.333333333,4.666666667,5,4.777777778,0.688530373
+A,Bot,"Did you tell your landlord your new address so they know how to reach you?
+
+Yes, my landlord has my new address.
+No, my landlord does not have my new address.",4.333333333,5,5,5.666666667,5.666666667,5,5.111111111,0.501848435
+A,Bot,"Did your landlord include actual receipts?
+
+Yes, there were receipts included.
+No, it was just an estimate
+No, there were no estimates or receipts",4.666666667,5,4,3,4,4.666666667,4.222222222,0.7200823
+A,Bot,"Do you have a copy of your lease that you can upload right now?
+
+Yes, I have a copy of the lease.
+No, I do not have a copy of the lease to upload.",4.333333333,5.333333333,5,4,4.666666667,4.666666667,4.666666667,0.471404521
+A,Bot,"Great, thank you for the response. Did you sign a written lease?
+
+Yes, I signed a written lease.
+No, I did not sign a written lease.",4.333333333,5.666666667,6,4,4.666666667,4,4.777777778,0.860662966
+A,Bot,Great. We will do our best to make this as easy as possible for you. Let’s continue.,5.666666667,5.333333333,6,5.333333333,6,6,5.722222222,0.327730693
+A,Bot,"I see, thank you. Would you please share if you have moved out?
+
+Yes, I have moved out.
+No, I have not moved out.",5.333333333,5.666666667,4.333333333,4.333333333,5,5.333333333,5,0.557773351
+A,Bot,"I understand, thank you. We'll need some basic information to get us started please.",4.333333333,4.666666667,4.666666667,3.333333333,4,4,4.166666667,0.50552503
+A,Bot,"If that's true, your landlord may not be able to deduct any money for repairs and you may be able to get your deposit back.",4.666666667,5.666666667,5,4.333333333,3.666666667,5.333333333,4.777777778,0.7200823
+A,Bot,"Let's check what protections you have for your security deposit based on the type of property you rent or rented.
+
+Continue",4.333333333,4,4,3.666666667,5.666666667,5,4.444444444,0.750308578
+A,Bot,"Looking at your situation, under the law, landlords typically need to return security deposits within 45 day of you moving out. But in some circumstances, landlords can hold on to security deposits. Let us see if any of those circumstances apply here.
+
+Thank you, let's check together.",5,5.333333333,5,4.666666667,4,6,5,0.666666667
+A,Bot,"Please know that the law may provide for two times the security deposit for some violations, but this letter only asks for your original deposit amount back. If you want, you can edit this letter or write your own instead.
+
+Let's proceed",4.666666667,4.666666667,5,5.333333333,6,4.666666667,5.055555556,0.534027326
+A,Bot,"Thank you for sharing. Let me check, when did you move out?",5,3.666666667,5.666666667,3,4,4.666666667,4.333333333,0.966091783
+A,Bot,"Thank you for telling me. Do you owe money to your landlord for any past-due rent? Under the law, your landlord may be able to deduct past-due rent from your deposit.
+
+Yes, I owe my landlord money for past-due rent.
+No, I do not owe any money for past-due rent.",5,4,4.333333333,4.666666667,4.333333333,5,4.555555556,0.403686714
+A,Bot,"Thank you for your helpful responses. Could you share if you have completely moved out?
+
+Yes, I have completely moved out.
+No, I have not moved out completely.",4.666666667,4,6,4.666666667,5.666666667,5,5,0.730296743
+A,Bot,"Thank you!
+Redirecting you back to the platform in {timeout}... 
+You could also click on this link (https://www.legalchatbot.org/doneChatbot) to go back to the platform.",4.666666667,4.333333333,5.666666667,5.333333333,4.333333333,5,4.888888889,0.544331054
+A,Bot,Thanks for letting us know. We will try our best to resolve your security deposit issues with your landlord as quickly as possible. Please bear with us. We can solve this together.,4.333333333,5,5.333333333,4.666666667,5,5.333333333,4.944444444,0.389681731
+A,Bot,Thanks for using Rentervention!,4,4.666666667,3,4.333333333,3.666666667,4,3.944444444,0.574133808
+A,Bot,"That may be a problem for your landlord. Landlords need to tell you when they deduct a ""reasonable amount"" for repairs from your security deposit.",5.333333333,4,4.666666667,4,4.666666667,4,4.444444444,0.544331054
+A,Bot,That zip code doesn't seem to be in our records. Let's try again.,4.666666667,5.333333333,5,4.666666667,6.333333333,5.666666667,5.277777778,0.646930072
+A,Bot,"The law here is time-sensitive and your landlord needs to follow it in order to avoid hefty fines and other penalties. Let's walk through collecting facts together.
+
+I see, thank you for the explanation.",6.333333333,4.666666667,5.333333333,6,5.333333333,6,5.611111111,0.611615953
+A,Bot,"The way I understand our situation, it's been 262 days since you moved out.",4.666666667,5,4.333333333,4,2.666666667,4.333333333,4.166666667,0.809663853
+A,Bot,"This is helpful. I see you're in Chicago.
+
+Continue",4,6,5,4.666666667,4.666666667,5.333333333,4.944444444,0.680413817
+A,Bot,"We can draft a letter demanding that your landlord return the entire security deposit because they failed to follow the law. Is that what we should do?
+
+Yes, let's do that together.
+No, thank you.",5.666666667,3.666666667,5,5,5,4,4.722222222,0.742867318
+A,Bot,"We can write a letter to your landlord to return your security deposit. Would you like for us to do that?
+
+Yes, I would like to do that please.
+No, I would not like to do that.",5,5.333333333,5,5,4.333333333,5.333333333,5,0.365148372
+A,Bot,"We may be able to write a letter to your landlord requesting your security deposit back. Would you like to continue?
+
+Yes, I would like to continue.",5.666666667,4,4,4,3.666666667,4.333333333,4.277777778,0.712325352
+A,Bot,"We truly care about you and your experiences. We know how challenging and stressful it can be when you have a problem with a landlord. Our goal is to help you and make this process as simple as possible for you. To start, we would first like to learn more about your issue. 
+
+There's trouble with my security deposit.
+I got an eviction notice.
+My landlord won't fix problems in my apartment.
+I don't have any heat, water, gas or plumbing.
+My landlord locked me out.
+I need help with rent",4,3.333333333,6,5,4.666666667,5,4.666666667,0.918936583
+A,Bot,"Welcome, Rentervention is designed to help you with housing problems. If you would like to proceed, please click continue.
+
+Continue",5.333333333,6,5,4,4,6,5.055555556,0.904720133
+A,Bot,We'll need to check the security deposit laws where you live. Could you please share the zip code of your rental?,6,5,5.333333333,4.666666667,4.333333333,3.666666667,4.833333333,0.809663853
+A,Bot,When did you get the estimate for repairs?,4,4,5.333333333,3.333333333,3.666666667,3.333333333,3.944444444,0.742867318
+A,Bot,"While the letter asks for the entire security deposit, you may negotiate something different with your landlord, either for more or less. With that in mind, let's proceed.
+
+Okay, let's continue",5.333333333,4,4.333333333,4,4.666666667,5.333333333,4.611111111,0.611615953
+A,Bot,"Would you happen to have a record of that communication, saved in email, text, etc.?
+
+Yes, I have saved the communications.
+No, I did not save the communications.",5.333333333,6,3.666666667,6,5.666666667,4.666666667,5.222222222,0.910840068
+A,Bot,"Would you please share what kind of property you rented?
+
+Single family home
+Small family (6 units or fewer)
+Large building (7 or more units)",6.333333333,4,4.666666667,4.333333333,5.666666667,5,5,0.869226987
+B,Bot,"Based on your situation, we may be able to write a letter to your landlord demanding your security deposit back. Shall we do that?
+
+Yes, I would like to write a letter please.",4.333333333,3.666666667,4.333333333,4.333333333,5.333333333,5.333333333,4.555555556,0.655461387
+B,Bot,"Before Rentervention will help you write the letter. You will now take a second survey to evaluate your experiences using the online help. Please click on the Continue button below to access it.
+
+Thanks!",4,5.333333333,3.333333333,5.333333333,4.333333333,4,4.388888889,0.800462829
+B,Bot,"Before we continue with our discussion, we wanted to check in. We know working on legal issues can be stressful. Are you doing ok?
+
+Yes
+No",4.666666667,6.333333333,3.666666667,5,5.333333333,5.333333333,5.055555556,0.879814795
+B,Bot,Could you please tell me how much your deposit is?,4.666666667,5,5.333333333,4.333333333,5.333333333,5,4.944444444,0.389681731
+B,Bot,"Could you share if your landlord told you in writing that they would deduct anything from your security deposit (repairs, replacements, etc)?
+
+Yes, my landlord told me in writing of the deductions.
+No, my landlord did not tell me of the deductions.",5.666666667,5,5,3,3.666666667,4.666666667,4.5,0.98319208
+B,Bot,"Did you tell your landlord your new address so they know how to reach you?
+
+Yes, my landlord has my new address.
+No, my landlord does not have my new address.",5,4,4.666666667,5,4,5.333333333,4.666666667,0.557773351
+B,Bot,"Do you have a copy of your lease that you can upload right now?
+
+Yes, I have a copy of the lease.
+No, I do not have a copy of the lease to upload.",5.666666667,3.333333333,4.666666667,3.333333333,5,5.333333333,4.555555556,1.00369687
+B,Bot,"Great, thank you for the response. Did you sign a written lease?
+
+Yes, I signed a written lease.
+No, I did not sign a written lease.",5,5,4,4.666666667,4.666666667,5.333333333,4.777777778,0.455420034
+B,Bot,Great. We will do our best to make this as easy as possible for you. Let’s continue.,5.333333333,4.666666667,4,4,5,5.666666667,4.777777778,0.688530373
+B,Bot,"I see, thank you. Would you please share if you have moved out?
+
+Yes, I have moved out.
+No, I have not moved out.",4.666666667,4.666666667,5,4,5,4.666666667,4.666666667,0.365148372
+B,Bot,"I understand, thank you. We'll need some basic information to get us started please.",5.333333333,5.666666667,5,5.333333333,4.666666667,4.666666667,5.111111111,0.403686714
+B,Bot,"Let's check what protections you have for your security deposit based on the type of property you rent or rented.
+
+Continue",6,5.666666667,5.333333333,4.333333333,6,5,5.388888889,0.646930072
+B,Bot,"Looking at your situation, under the law, landlords typically need to return security deposits within 45 day of you moving out. But in some circumstances, landlords can hold on to security deposits. Let us see if any of those circumstances apply here.
+
+Thank you, let's check together.",5.666666667,5.333333333,5.333333333,4,4,4.666666667,4.833333333,0.722649446
+B,Bot,"Thank you for sharing. Let me check, when did you move out?",4.666666667,4.666666667,4.333333333,4.666666667,4.666666667,5.333333333,4.722222222,0.327730693
+B,Bot,"Thank you for telling me. Do you owe money to your landlord for any past-due rent? Under the law, your landlord may be able to deduct past-due rent from your deposit.
+
+Yes, I owe my landlord money for past-due rent.
+No, I do not owe any money for past-due rent.",4.666666667,5.666666667,5.333333333,4.333333333,4.333333333,5,4.888888889,0.544331054
+B,Bot,"Thank you for your helpful responses. Could you share if you have completely moved out?
+
+Yes, I have completely moved out.
+No, I have not moved out completely.",4.666666667,5,5,5.666666667,3.666666667,4.333333333,4.722222222,0.680413817
+B,Bot,"Thank you!
+Redirecting you back to the platform in {timeout}... 
+You could also click on this link (https://www.legalchatbot.org/doneChatbot) to go back to the platform.",3.666666667,4,4,3.666666667,4.333333333,4,3.944444444,0.250924218
+B,Bot,Thanks for using Rentervention!,5,4.333333333,3,3.666666667,4,3,3.833333333,0.78173596
+B,Bot,"That may be a problem for your landlord. Landlords need to tell you when they deduct a ""reasonable amount"" for repairs from your security deposit.",4.666666667,5.333333333,5,5.333333333,6,3.666666667,5,0.788810638
+B,Bot,"The way I understand our situation, it's been 265 days since you moved out.",4.333333333,3.666666667,3.666666667,5,4,4.333333333,4.166666667,0.50552503
+B,Bot,"This is helpful. I see you're in Chicago.
+
+Continue",4.666666667,6,5,5.666666667,4.666666667,5,5.166666667,0.547722558
+B,Bot,"We can write a letter to your landlord to return your security deposit. Would you like for us to do that?
+
+Yes, I would like to do that please.
+No, I would not like to do that.",4.333333333,6,4,4.666666667,4.333333333,5,4.722222222,0.712325352
+B,Bot,"We may be able to write a letter to your landlord requesting your security deposit back. Would you like to continue?
+
+Yes, I would like to continue.",6.333333333,5.333333333,5.666666667,5,5.666666667,4.666666667,5.444444444,0.583730024
+B,Bot,"We truly care about you and your experiences. We know how challenging and stressful it can be when you have a problem with a landlord. Our goal is to help you and make this process as simple as possible for you. To start, we would first like to learn more about your issue. 
+
+There's trouble with my security deposit.
+I got an eviction notice.
+My landlord won't fix problems in my apartment.
+I don't have any heat, water, gas or plumbing.
+My landlord locked me out.
+I need help with rent",4.666666667,4,5.666666667,4.333333333,3.333333333,4,4.333333333,0.788810638
+B,Bot,"Welcome, Rentervention is designed to help you with housing problems. If you would like to proceed, please click continue.
+
+Continue",6,4.666666667,4.666666667,4,4.666666667,3.333333333,4.555555556,0.886106757
+B,Bot,We'll need to check the security deposit laws where you live. Could you please share the zip code of your rental?,5,4.666666667,4.666666667,5.333333333,4.666666667,4.333333333,4.777777778,0.344265186
+B,Bot,"We're sorry, we're not yet able to help with this issue. Are there any other issues we can help with?",5,3.666666667,4.333333333,4.333333333,4.666666667,5.333333333,4.555555556,0.583730024
+B,Bot,"Would you please share what kind of property you rented?
+
+Single family home
+Small family (6 units or fewer)
+Large building (7 or more units)",4.666666667,4.666666667,4.333333333,4.333333333,3.333333333,6,4.555555556,0.860662966
+C,Bot,"Based the information provided, it took the landlord more than 30 days since the tenant moved out to send the estimate. The tenant was supposed to have received an estimate on or about 2022-09-23
+
+Continue",3,4.333333333,3.666666667,4,2.333333333,4.333333333,3.611111111,0.800462829
+C,Bot,"Did the landlord include actual receipts?
+
+Yes
+No, it was just an estimate
+No, there were no estimates or receipts",1,1.333333333,1,2,1.666666667,1.666666667,1.444444444,0.403686714
+C,Bot,"Did the landlord tell the tenant in writing that they were going to deduct anything from the security deposit (repairs, replacements, etc)?
+
+Yes
+No",2,2,1.666666667,2.333333333,1.666666667,1.666666667,1.888888889,0.272165527
+C,Bot,"Did the tenant owe money to the landlord for any past-due rent? Under the law, a landlord can deduct past-due rent from the deposit.
+
+Yes
+No",1.666666667,2,2,2,1,2,1.777777778,0.403686714
+C,Bot,"Did the tenant sign a written lease?
+
+Yes
+No",1.333333333,2,1.333333333,1.666666667,1,2,1.555555556,0.403686714
+C,Bot,"Did the tenant tell the landlord their new address so the landlord knows how to reach them?
+
+Yes
+No",1,2,1.666666667,1.666666667,1.666666667,1.333333333,1.555555556,0.344265186
+C,Bot,"Does the tenant still have a copy of the lease?
+
+Yes
+No",2,2.333333333,2.333333333,1,2,1.666666667,1.888888889,0.501848435
+C,Bot,"Has the tenant moved out?
+
+Yes
+No",2,2.333333333,1.666666667,2.666666667,2,2,2.111111111,0.344265186
+C,Bot,How much did the tenant owe?,1.333333333,2,1.666666667,2.333333333,2,1.333333333,1.777777778,0.403686714
+C,Bot,How much is/was the deposit?,1.666666667,1,1.333333333,1.333333333,1.333333333,2,1.444444444,0.344265186
+C,Bot,"If that's true, the landlord can not deduct any money for repairs and the tenant can get their security deposit back.",1.333333333,1.333333333,1.333333333,2,1.666666667,2.666666667,1.722222222,0.534027326
+C,Bot,"Is the tenant completely moved out?
+
+Yes
+No",1.333333333,1.333333333,1.666666667,1.666666667,2.333333333,1.666666667,1.666666667,0.365148372
+C,Bot,"Is there a record of that communication? Saved in email, text, etc.?
+
+Yes
+No",1.333333333,1.666666667,2.333333333,2,1.333333333,2,1.777777778,0.403686714
+C,Bot,It has been 262 days since the tenant moved out.,1.666666667,2,1,2.666666667,1.333333333,1.333333333,1.666666667,0.596284794
+C,Bot,"Provide additional timeline facts to determine what the landlord is required to do to avoid fines and other penalties.
+
+Continue",2,2.333333333,1.333333333,1.666666667,1.666666667,1.333333333,1.722222222,0.389681731
+C,Bot,Provide some basic information to get started.,1.666666667,2,1.666666667,1.666666667,1.666666667,2,1.777777778,0.172132593
+C,Bot,"Rentervention can draft a letter demanding the landlord return the entire security deposit because they failed to follow the law. Does the tenant want to draft a letter?
+
+Yes
+No",1.666666667,1.666666667,1.666666667,1.666666667,2.666666667,1.666666667,1.833333333,0.40824829
+C,Bot,"Rentervention can provide a letter asking a landlord to return a security deposit. Does the tenant want to write a letter?
+
+Yes
+No",1.666666667,1.333333333,1.666666667,2,1.333333333,2.333333333,1.722222222,0.389681731
+C,Bot,"Rentervention can provide a letter to a landlord demanding a security deposit back. Click 'Continue' to proceed.
+
+Continue",1,2,1,2,1.666666667,2,1.611111111,0.490653381
+C,Bot,"Rentervention can provide a letter to a landlord demanding a security deposit back. Is that what the tenant wants?
+
+Yes",2.333333333,2,1.333333333,2,1,2.333333333,1.833333333,0.547722558
+C,Bot,"Rentervention is a virtual assistant that's designed to help tenants with housing issues. What can I help you with?
+
+There's trouble with my security deposit.
+I got an eviction notice.
+My landlord won't fix problems in my apartment.
+I don't have any heat, water, gas, or plumbing.
+My landlord locked me out.
+I need help with rent.",1.666666667,1.333333333,2,1.333333333,2,2,1.722222222,0.327730693
+C,Bot,Security deposit law varies based on where the property is located. Provide a zip code.,1.666666667,2,1.333333333,1.333333333,1.666666667,2.333333333,1.722222222,0.389681731
+C,Bot,"Select the type of rental.
+
+Single family home
+Small family (6 units or fewer)
+Large building (7 or more units)",2,1,1,1.666666667,2.666666667,1,1.555555556,0.688530373
+C,Bot,Thank you for using Rentervention.,2,2,2.333333333,2.333333333,2,2.333333333,2.166666667,0.182574186
+C,Bot,"Thank you!
+Redirecting you back to the platform in {timeout}... 
+You could also click on this link (https://www.legalchatbot.org/doneChatbot) to go back to the platform.",1.333333333,1.333333333,1.666666667,2.666666667,1.333333333,2,1.722222222,0.534027326
+C,Bot,"That can be a problem for the landlord. Landlords need to tell the tenant when they deduct a ""reasonable amount"" for repairs from the tenant's security deposit.",1.666666667,2,1.666666667,1.666666667,2,2.666666667,1.944444444,0.389681731
+C,Bot,"The law can provide for two times the security deposit for some violations, but this letter only asks for the original deposit amount back. Edit this letter as desired.
+
+Continue",1.666666667,1.333333333,2,1.333333333,1.666666667,2,1.666666667,0.298142397
+C,Bot,"The letter asks for the entire security deposit, but the tenant can negotiate something different with their landlord, either for more or less. Click 'Continue' to proceed.
+
+Continue",2.333333333,1.666666667,2.333333333,1.666666667,1.333333333,1.666666667,1.833333333,0.40824829
+C,Bot,"The protections for security deposits depend on the type of property rented.
+
+Let's continue",1.666666667,1.333333333,1.333333333,2,1.666666667,1.333333333,1.555555556,0.272165527
+C,Bot,"The tenant is in Chicago.
+
+Let's continue.",2.666666667,1.666666667,2.333333333,1.666666667,1.666666667,1.666666667,1.944444444,0.443053379
+C,Bot,"Under the law, landlords typically need to return security deposits within 45 days of the tenant moving out. But in some circumstances, landlords can hold on to security deposits. Proceed to check if any of those circumstances apply here.
+
+Next",2,1.666666667,1.333333333,2,1.666666667,2,1.777777778,0.272165527
+C,Bot,"Welcome, Rentervention is designed to help you with housing problems. If you would like to proceed, please click continue.
+
+Continue",1.666666667,2,1.666666667,2,1.666666667,2.333333333,1.888888889,0.272165527
+C,Bot,When did the tenant move out?,2.666666667,2,1,2,1.666666667,1.666666667,1.833333333,0.547722558
+C,Bot,When did the tenant receive the estimate for repairs?,1,2.666666667,1.666666667,1.666666667,1,2,1.666666667,0.632455532
+D,Bot,"Based the information provided, it took the landlord more than 30 days since the tenant moved out to send the estimate. The tenant was supposed to have received an estimate on or about 2023-02-21
+
+Continue",1.333333333,2.333333333,2,1.333333333,2,2,1.833333333,0.40824829
+D,Bot,"Did the landlord include actual receipts?
+
+Yes
+No, it was just an estimate
+No, there were no estimates or receipts",1.666666667,1,1.666666667,2,1.333333333,2,1.611111111,0.389681731
+D,Bot,"Did the landlord tell the tenant in writing that they were going to deduct anything from the security deposit (repairs, replacements, etc)?
+
+Yes
+No",1,2,1.333333333,2.333333333,2.333333333,1.333333333,1.722222222,0.574133808
+D,Bot,"Did the tenant owe money to the landlord for any past-due rent? Under the law, a landlord can deduct past-due rent from the deposit.
+
+Yes
+No",2,1.666666667,1.333333333,1,1.666666667,2,1.611111111,0.389681731
+D,Bot,"Did the tenant sign a written lease?
+
+Yes
+No",2.666666667,1,2,2,2,2,1.944444444,0.534027326
+D,Bot,"Did the tenant tell the landlord their new address so the landlord knows how to reach them?
+
+Yes
+No",2.333333333,2.333333333,2.333333333,1.666666667,2.333333333,2,2.166666667,0.278886676
+D,Bot,"Does the tenant still have a copy of the lease?
+
+Yes
+No",1,2.333333333,2,1.333333333,2,1,1.611111111,0.574133808
+D,Bot,"Has the tenant moved out?
+
+Yes
+No",2.333333333,1,1.333333333,2,1.666666667,2,1.722222222,0.490653381
+D,Bot,How much is/was the deposit?,1.333333333,1.666666667,1.666666667,2.666666667,2.333333333,1.666666667,1.888888889,0.501848435
+D,Bot,"If that's true, the landlord can not deduct any money for repairs and the tenant can get their security deposit back.",1.666666667,1.333333333,1.333333333,1.666666667,1,2.333333333,1.555555556,0.455420034
+D,Bot,"Is the tenant completely moved out?
+
+Yes
+No",2,2,1.666666667,2,2.333333333,2,2,0.210818511
+D,Bot,"Is there a record of that communication? Saved in email, text, etc.?
+
+Yes
+No",1.666666667,2,1.333333333,2,1.333333333,1.666666667,1.666666667,0.298142397
+D,Bot,It has been 111 days since the tenant moved out.,1.333333333,1.666666667,1.666666667,2,1,1.666666667,1.555555556,0.344265186
+D,Bot,"Provide additional timeline facts to determine what the landlord is required to do to avoid fines and other penalties.
+
+Continue",1.666666667,1.666666667,1.666666667,1.666666667,2,1.333333333,1.666666667,0.210818511
+D,Bot,Provide some basic information to get started.,1.333333333,2,1,1.666666667,1.333333333,2,1.555555556,0.403686714
+D,Bot,"Rentervention can draft a letter demanding the landlord return the entire security deposit because they failed to follow the law. Does the tenant want to draft a letter?
+
+Yes
+No",1.333333333,2,2,2,2.666666667,1.666666667,1.944444444,0.443053379
+D,Bot,"Rentervention can provide a letter to a landlord demanding a security deposit back. Click 'Continue' to proceed.
+
+Continue",2,1,2,2.333333333,1.333333333,2,1.777777778,0.501848435
+D,Bot,"Rentervention can provide a letter to a landlord demanding a security deposit back. Is that what the tenant wants?
+
+Yes",1.333333333,1.666666667,2.333333333,1.333333333,1,1.666666667,1.555555556,0.455420034
+D,Bot,"Rentervention is a virtual assistant that's designed to help tenants with housing issues. What can I help you with?
+
+There's trouble with my security deposit.
+I got an eviction notice.
+My landlord won't fix problems in my apartment.
+I don't have any heat, water, gas, or plumbing.
+My landlord locked me out.
+I need help with rent.",1.666666667,1.666666667,1.666666667,2,2,1.333333333,1.722222222,0.250924218
+D,Bot,Security deposit law varies based on where the property is located. Provide a zip code.,2,1.666666667,2,2.333333333,1,2.333333333,1.888888889,0.501848435
+D,Bot,"Select the type of rental.
+
+Single family home
+Small family (6 units or fewer)
+Large building (7 or more units)",2.333333333,2.333333333,1.666666667,1.666666667,2.333333333,2,2.055555556,0.327730693
+D,Bot,Thank you for using Rentervention.,1.666666667,1.666666667,1,1,1.333333333,2.666666667,1.555555556,0.620632891
+D,Bot,"Thank you!
+Redirecting you back to the platform in {timeout}... 
+You could also click on this link (https://www.legalchatbot.org/doneChatbot) to go back to the platform.",1.333333333,1.666666667,1,2.333333333,2.666666667,2.333333333,1.888888889,0.655461387
+D,Bot,"The law can provide for two times the security deposit for some violations, but this letter only asks for the original deposit amount back. Edit this letter as desired.
+
+Continue",1.333333333,1.333333333,1.333333333,1.333333333,1.333333333,1.333333333,1.333333333,0
+D,Bot,"The letter asks for the entire security deposit, but the tenant can negotiate something different with their landlord, either for more or less. Click 'Continue' to proceed.
+
+Continue",1.333333333,1.666666667,1.666666667,1.333333333,2,2,1.666666667,0.298142397
+D,Bot,"The protections for security deposits depend on the type of property rented.
+
+Let's continue",2,1.666666667,1.666666667,1.666666667,2,2,1.833333333,0.182574186
+D,Bot,"The tenant is in Chicago.
+
+Let's continue.",1.666666667,2.333333333,2.333333333,2.333333333,2,1.666666667,2.055555556,0.327730693
+D,Bot,"Under the law, landlords typically need to return security deposits within 45 days of the tenant moving out. But in some circumstances, landlords can hold on to security deposits. Proceed to check if any of those circumstances apply here.
+
+Next",1.333333333,2,2.333333333,1,2.666666667,2,1.888888889,0.620632891
+D,Bot,"Welcome, Rentervention is designed to help you with housing problems. If you would like to proceed, please click continue.
+
+Continue",2,1.333333333,2,2,2,2.666666667,2,0.421637021
+D,Bot,When did the tenant move out?,2,2,1.666666667,1.333333333,2.333333333,1.666666667,1.833333333,0.349602949
+D,Bot,When did the tenant receive the estimate for repairs?,1.666666667,1.666666667,1.666666667,1.666666667,1.666666667,2.333333333,1.777777778,0.272165527
+FAQ,FAQ,6 Units or less: There are no specific rules,1,1.333333333,2,2.333333333,2,1.333333333,1.666666667,0.516397779
+FAQ,FAQ,7 or more units: The landlord must return the security deposit within 45 days after the tenants move out.,2.333333333,2,1.333333333,1.333333333,1.333333333,2.666666667,1.833333333,0.586893895
+FAQ,FAQ,"After the landlord provides the tenant with the statement of damages, the tenant has the right to appeal the damages.",2,1.666666667,1.333333333,2.333333333,2,1.333333333,1.777777778,0.403686714
+FAQ,FAQ,"After the tenant has moved out and returned the keys, the tenant must have given the landlord, in writing, the address where they want the landlord to mail the security deposit.",1,1.666666667,1.666666667,1,2.333333333,1.666666667,1.555555556,0.501848435
+FAQ,FAQ,After the time expires for the landlord to return the tenant's security deposit:,2,1.666666667,1.666666667,2,2.333333333,2,1.944444444,0.250924218
+FAQ,FAQ,"Based on the scenario in the upper right hand corner, are you entitled to the retyurn of all or some of your security deposit from the landlord?",2,2.333333333,1.333333333,1.666666667,2,2.333333333,1.944444444,0.389681731
+FAQ,FAQ,"do not exceed the security deposit, the landlord must send the remaining balance of the security deposit to the tenant.",1.666666667,1.666666667,1.666666667,2.333333333,1.333333333,1.333333333,1.666666667,0.365148372
+FAQ,FAQ,"exceed the security deposit, the tenant must send the additional fees to the landlord.",1.333333333,1.333333333,2.333333333,1.666666667,1.666666667,2.666666667,1.833333333,0.547722558
+FAQ,FAQ,"For a building with 7 or more units, the landlord does not have to send the tenant a statement if they keep the security deposit because the tenant owed rent.",1.333333333,1.333333333,1,1,2.666666667,1.333333333,1.444444444,0.620632891
+FAQ,FAQ,"For a building with 7 or more units, the landlord must provide the tenant with receipts or an estimate for repairs to the property within 30 days after the tenant moves out.",2,2,2,2.333333333,1.333333333,2.333333333,2,0.365148372
+FAQ,FAQ,Getting back a security deposit,1.333333333,1.666666667,1.333333333,2,1.666666667,2,1.666666667,0.298142397
+FAQ,FAQ,"Given the scenario, please use the FAQ below to determine how to answer the two following questions:",1.333333333,1.666666667,1.333333333,1.666666667,1.333333333,1.666666667,1.5,0.182574186
+FAQ,FAQ,"If so, what do you need to do to get your security deposit back?",2.333333333,1.666666667,1.666666667,1.666666667,1.333333333,2,1.777777778,0.344265186
+FAQ,FAQ,If the damages,2,2,1.333333333,2.333333333,2.333333333,2,2,0.365148372
+FAQ,FAQ,"If the landlord can't show receipts for the damages, they must still provide an itemized list of the costs. They must provide any other evidence they have to show what they paid for repairs. They must explain why they cannot produce the receipts.",1,2.333333333,2,2,1.666666667,2,1.833333333,0.459468292
+FAQ,FAQ,"If the landlord fails to provide a mailing address or e-mail, the landlord is not responsible for providing the receipts or returning the security deposit.",2.333333333,2,2,1.333333333,2.333333333,2.666666667,2.111111111,0.455420034
+FAQ,FAQ,If the tenant and landlord cannot reach an agreement on the amount of the security deposit returnd:,2.333333333,1.666666667,2.333333333,1.666666667,1.666666667,2,1.944444444,0.327730693
+FAQ,FAQ,"If the tenant does not appeal, the landlord must respond within 15 days providing additional evidence of the repairs.",2,2,2,1.333333333,2,2,1.888888889,0.272165527
+FAQ,FAQ,If the tenant has not moved out,1.666666667,1.666666667,2,1.333333333,2,2,1.777777778,0.272165527
+FAQ,FAQ,If the tenant has not provided the landlord their new address,1.666666667,1.333333333,1.666666667,2,1.666666667,2.666666667,1.833333333,0.459468292
+FAQ,FAQ,If there are damages to the property:,2,1.333333333,1.666666667,1.666666667,2,1.666666667,1.722222222,0.250924218
+FAQ,FAQ,If there is past-due rent,2.333333333,1.333333333,1.666666667,1,1.666666667,2.666666667,1.777777778,0.620632891
+FAQ,FAQ,"Normal wear and tear (including worn carpet edges, scuffed walls, and dirty countertops) does not warrant withholding a security deposit. However, any significant damages beyond reasonable wear and tear can result in the security deposit being withheld.",1.666666667,1.666666667,1.333333333,1.666666667,2.333333333,1.666666667,1.722222222,0.327730693
+FAQ,FAQ,The letter can tell the landlord that they had 45 days to either return the security deposit or give the tenant a list of how the money was spent.,1.666666667,1.666666667,1.666666667,2.333333333,1.666666667,2,1.833333333,0.278886676
+FAQ,FAQ,The tenant also needs to return all of the keys to the landlord after they move out.,1.333333333,2,2,1,1.333333333,1.333333333,1.5,0.40824829
+FAQ,FAQ,"The tenant can check the written lease, if there is one, to make sure they have followed all of the instructions for moving out.",2.333333333,1.666666667,2.333333333,2.333333333,2.333333333,1.333333333,2.055555556,0.443053379
+FAQ,FAQ,The tenant can file a case in small claims court in the county where the unit was located or where the landlord lives.,2,1.333333333,1.666666667,1,2,1.333333333,1.555555556,0.403686714
+FAQ,FAQ,the tenant can send a written demand letter by mail with a tracking number requesting the return of the deposit.,1.666666667,1.666666667,1.666666667,2.666666667,1.666666667,1,1.722222222,0.534027326
+FAQ,FAQ,"The tenant can sue their landlord to get back the amount of the security deposit that the landlord withheld, plus the costs of the lawsuit.",1.333333333,2,1,1.333333333,1.333333333,2,1.5,0.40824829
+FAQ,FAQ,The tenant must have moved all of their items out from the unit and have cleaned the unit to recover their security deposit.,2,1.333333333,2,1.666666667,2,2,1.833333333,0.278886676
+FAQ,FAQ,"This includes all floors and surfaces, the refrigerator, the freezer, the oven, and all the bathrooms.",2.333333333,1.666666667,1.333333333,2.333333333,1.666666667,2,1.888888889,0.403686714
+FAQ,FAQ,Under what conditions can a landlord keep a security deposit?,1.333333333,1.333333333,1,1.666666667,2,2,1.555555556,0.403686714
+FAQ,FAQ,What can the tenant do if their landlord does not return the security deposit within the required time?,1.666666667,2.333333333,2,2.333333333,1.666666667,2.333333333,2.055555556,0.327730693
+FAQ,FAQ,What can the tenant do if they do not agree with the written statement of damages?,1,1.666666667,2,2,2,2.333333333,1.833333333,0.459468292
+FAQ,FAQ,What must the landlord show to prove damages?,1.333333333,1.666666667,2.333333333,1.333333333,2,1.333333333,1.666666667,0.421637021
+FAQ,FAQ,When must a landlord return a tenant's security deposit?,1.666666667,1.666666667,1.666666667,1,1.333333333,1.666666667,1.5,0.278886676
