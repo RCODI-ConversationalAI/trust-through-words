@@ -1,0 +1,11 @@
+venv/
+env/
+cache/
+private/
+log/
+
+google-credentials.json
+.env
+
+test.*
+__pycache__/

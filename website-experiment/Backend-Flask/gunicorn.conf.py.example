@@ -1,0 +1,17 @@
+#Services
+workers = 4
+threads = 2
+worker_class = 'gevent'
+daemon = 'false'
+bind = '0.0.0.0:5001'
+x_forwarded_for_header = 'X-FORWARDED-FOR'
+worker_connections = 1000
+
+#Log
+pidfile = 'log/chatbot.pid'
+accesslog = 'log/chatbot_access.log'
+errorlog = 'log/chatbot_error.log'
+loglevel = 'debug'
+
+#Development
+#reload = True

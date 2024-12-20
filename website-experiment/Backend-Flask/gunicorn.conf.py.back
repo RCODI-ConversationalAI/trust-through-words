@@ -1,0 +1,18 @@
+#Services
+workers = 3
+worker_class = 'gevent'
+daemon = 'false'
+bind = '0.0.0.0:5000'
+x_forwarded_for_header = 'X-FORWARDED-FOR'
+worker_connections = 1000
+
+#Log
+pidfile = 'log/chatbot.pid'
+access_log_format = '"%({X-Real-IP}i)s" %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s" '
+accesslog = 'log/chatbot_access.log'
+errorlog = 'log/chatbot_error.log'
+capture_output = True
+loglevel = 'warning'
+
+#Development
+reload = False

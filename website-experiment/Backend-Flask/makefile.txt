@@ -1,0 +1,12 @@
+.ONESHELL:
+development: app.py
+	export FLASK_APP=app.py
+	export FLASK_DEBUG=1
+	export FLASK_ENV=development
+	flask run -h localhost -p 5000
+
+.ONESHELL:
+production: app.py
+	. venv/bin/activate
+	export FLASK_APP=app.py
+	flask run --host=0.0.0.0 -p 5001
