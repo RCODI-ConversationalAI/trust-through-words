@@ -1,0 +1,3 @@
+At this point, we also want to mention that in this research we used a method called “anger inducement” in order to understand how emotions, in particular anger, impact the quality of services of a legal chatbot. You are one of the participants who were exposed to information that should have upsetted you. Since this might have caused stress, we would like to offer you the opportunity to complete a very short breathing exercise below. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e3T9bkt0-7I?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
